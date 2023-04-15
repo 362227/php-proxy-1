@@ -1,14 +1,14 @@
 {
-"fetchserver": "https://a.bc.com/go/index.php",
+"fetchserver": "https://pistolwayne001php.herokuapp.com/php-proxy.php",
 "password": "123456",
 "sni": "a.bc.com",
-"listen": "127.0.0.1:8081",
+"listen": "127.0.0.1:1083",
 "debug": false,
 "http3": false,
 "insecure": false,
 "autoproxy": true,
 "user-agent": "",
 "proxy":"",
-"ca": "",
-"key": ""
+"ca": "php-proxy.crt",
+"key": "php-proxy.key"
 }
