@@ -6,6 +6,6 @@
 "http3": false,
 "insecure": false,
 "user-agent": "",
-"ca": "php-proxy.crt",
-"key": "php-proxy.key"
+"ca": "/content/php-proxy.crt",
+"key": "/content/php-proxy.key"
 }
