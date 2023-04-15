@@ -1,7 +1,6 @@
 {
-"fetchserver": "https://pistolwayne001php.herokuapp.com/php-proxy.php",
+"fetchserver": "http://pistolwayne001php.herokuapp.com/php-proxy.php",
 "password": "123456",
-"sni": "a.bc.com",
 "listen": "127.0.0.1:1083",
 "debug": false,
 "http3": false,
