@@ -1,11 +1,10 @@
 {
-"fetchserver": "http://pistolwayne001php.herokuapp.com/php-proxy.php",
+"fetchserver": "https://pistolwayne001php.herokuapp.com/php-proxy.php",
 "password": "123456",
 "listen": "127.0.0.1:1083",
 "debug": false,
 "http3": false,
 "insecure": false,
-"autoproxy": true,
 "user-agent": "",
 "proxy":"",
 "ca": "php-proxy.crt",
